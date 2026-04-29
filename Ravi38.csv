@@ -1,0 +1,13 @@
+Month,Units_Consumed(kWh),Rate_per_Unit(Rs/kWh),Fixed_Charge(Rs),Total_Bill(Rs),Highly_used_device,Device_consumed_units
+Jan,259,55,160,1174,AC,60%
+Feb,149,49,105,1224,FRIDGE,70%
+Mar,337,52,111,784,AC,65%
+Apr,293,56,57,2584,FAN,70%
+May,367,17,138,2760,LIGHT,80%
+Jun,262,34,143,2290,TV,67%
+Jul,342,21,85,2399,WASHING MACHINE,64%
+Aug,293,31,107,1035,AC,63%
+Sept,186,28,82,1113,AC,76%
+Oct,425,53,148,1828,FRIDGE,57%
+Nov,248,47,74,1236,FAN,59%
+Dec,220,35,64,1121,LIGHT,58%
