@@ -1,5 +1,3 @@
-# README Content
-
 ## Electricity Consumption Monitoring & Optimization Dashboard
 
 ### 1. Project Overview
